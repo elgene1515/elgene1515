@@ -17,7 +17,7 @@
 ## 📂 Projects
   - [Visithoughts](https://github.com/elgene1515/Visithoughts): A Web Application for Customers Feedback with Sentiment Analysis of CvSU-CCAT Campus.
   - [Pop and Math](https://github.com/elgene1515/POPandMATCH): A Unity 2D game designed to provides entertainment and educational experience for children at the same time.
-  - [GameDevWithUnity-REYESLEVEL1](https://github.com/elgene1515/GameDevWithUnity-REYESLEVEL1): A single level 2D platformer game developed using Unity.
+  - [REYESLEVEL1](https://github.com/elgene1515/GameDevWithUnity-REYESLEVEL1): A single level 2D platformer game developed using Unity.
   - [Pharmacy Information System](https://github.com/elgene1515/Pharmacy-Information-System): A Java project that demonstrates OOP principles such as inheritance, encapsulation, polymorphism, and abstraction.
   
     
