@@ -21,7 +21,7 @@
   - [REYESLEVEL1](https://github.com/elgene1515/GameDevWithUnity-REYESLEVEL1): A single level 2D platformer game developed using Unity.
   - [Pharmacy Information System](https://github.com/elgene1515/Pharmacy-Information-System): A Java project that demonstrates OOP principles such as inheritance, encapsulation, polymorphism, and abstraction.
   - [Gene Personal Web](https://github.com/elgene1515/Gene-Personal-Web): Gene Personal Web: A Single Page Application (SPA) created using VueJS. This application will serve as my personal website to showcases my skills, projects, experience, and professional identity.
-  - - [Gene Personal Web](https://github.com/elgene1515/DealHive): DealHive: is a modern e-commerce Single Page Application (SPA) built with Laravel 11, Vue 3, Vuetify 3, Pinia, and Vue Router. It provides a dynamic and scalable foundation for browsing, managing, and showcasing product deals, with plans for secure user authentication using Laravel Sanctum.
+  - [DealHive](https://github.com/elgene1515/DealHive): DealHive: is a modern e-commerce Single Page Application (SPA) built with Laravel 11, Vue 3, Vuetify 3, Pinia, and Vue Router. It provides a dynamic and scalable foundation for browsing, managing, and showcasing product deals, with plans for secure user authentication using Laravel Sanctum.
 
 ## 📈 GitHub Stats
   -![Elgene's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgene1515&show_icons=true&theme=radical)
