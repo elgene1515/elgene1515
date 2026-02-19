@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elgene Reyes (GENE)
+# 👋 Hello World!, I'm Elgene Reyes (GENE)
 
 ## Here are some information about me:
   - 🔭 I’m currently working on my personal project
